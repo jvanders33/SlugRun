@@ -5,7 +5,7 @@ A-race: **Gold Coast Half Marathon — Sat 4 July 2026, 6:15am**. Then Melbourne
 
 ## What's here
 
-- `index.html` — the whole app (Dashboard / Coach Sluggo / Profile). All CSS/JS inlined.
+- `index.html` — the whole app (Dashboard / Coach WannaGoFast / Profile). All CSS/JS inlined.
 - `manifest.json` + `icon-*.png` — makes it installable on a phone home screen like a real app.
 
 ## Deploy (GitHub Pages — free, no domain needed)
